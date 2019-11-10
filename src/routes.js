@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from 'react';
+import React, { useContext} from 'react';
 import { Router, Route, Switch, Redirect } from 'react-router';
 import history from './utils/history';
 import Context from './utils/context';
