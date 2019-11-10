@@ -1,11 +1,11 @@
 import React from 'react';
-import Home from './hooks/Home'
+import ContextState from './context_state_config'
 import './App.css';
 
 function App() {
   return (
     <div>
-      <Home />
+      <ContextState />
     </div>
   );
 }
